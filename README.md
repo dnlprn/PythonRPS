@@ -8,3 +8,5 @@ Simple Rock Paper Scissors python script that allows the user to choose between:
 3) Always win
 
 Just for a bit of fun.
+
+Use of functions, while loops, if statement and random library.
