@@ -1,5 +1,4 @@
 # PythonRPS
-Rock Paper Scissors python script
 
 Rock Paper Scissors python script that allows the user to choose between:
 
